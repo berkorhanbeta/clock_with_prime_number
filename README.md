@@ -26,6 +26,9 @@ This Flutter application displays a real-time clock on the home screen. Every 10
 - Programming Language: Dart
 - Platform: Android, iOS, Web
 
+## DEMO
+Download clock_app.apk [Android APK DEMO](https://github.com/berkorhanbeta/clock_with_prime_number/raw/main/app-release.apk)
+
 
 ## Screenshots from Application
 ![Screenshot](sc_1.png)
