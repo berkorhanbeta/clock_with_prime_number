@@ -38,7 +38,7 @@ class HomeController extends ChangeNotifier {
 
   void startAPI() {
     Stream api = Stream.periodic(
-        Duration(seconds: 3), (data) async {
+        Duration(seconds: 10), (data) async {
           // Fetch data from API.
           final response = await dio.get(AppConstant.Api_Url);
           // API return [X] as list.
