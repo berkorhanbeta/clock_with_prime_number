@@ -38,7 +38,6 @@ dependencies:
   dio: ^5.8.0+1
   shared_preferences: ^2.5.3
   provider: ^6.1.4
-  cached_network_svg_image: any
   intl: ^0.20.2
   flutter_screenutil: ^5.9.3
 
