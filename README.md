@@ -1,16 +1,32 @@
-# deepcare_clock
 
-A new Flutter project.
+# Clock Application with Finding Prime Number
 
-## Getting Started
+### Description
+We have the right to take legal action in the event that the application is shared on the internet, distribution, claiming right ownership, selling it for a fee.
+These codes are shared only for you to learn the Flutter.
+Anyone who have access to the codes is agreed to have unconditionally accepted these terms.
 
-This project is a starting point for a Flutter application.
+All Rights Reserved. 
+APPBeta Mobile - www.APPBeta.net - Berk ORHAN BETA
 
-A few resources to get you started if this is your first Flutter project:
+English (EN):
+* get: State management and dependency injection.
+* provider: State management.
+* shared_preferences: Store the time data of prime number.
+* intl: Easy format to time and date.
+* screenutil: Used for make the text responsive.
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About Application
+This Flutter application displays a real-time clock on the home screen. Every 10 seconds, it fetches a number from an API, checks if it is a prime number, and responds accordingly:
+✅ If prime, the app navigates to a Congratulations Page.
+⏱ It stores the time of the last prime detection and shows the time elapsed since then.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Framework: Flutter
+- Programming Language: Dart
+- Platform: Android, iOS, Web
+
+
+## Screenshots from Application
+![Screenshot](sc_1.png)
+![Screenshot](sc_2.png)
